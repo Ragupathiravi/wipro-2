@@ -1,0 +1,16 @@
+import java.util.*;
+public class Main{
+static int fun(String str)
+{
+int t,count=0;
+char ch[]=str.tocharArray();
+for(i=0;i<str.length();i++)
+{
+if ch[]
+public static void main(Strin args[])
+{
+Scanner sc=new Scanner(System.in);
+String str=sc.nextLine();
+System.out.println(fun(str));
+}
+}
